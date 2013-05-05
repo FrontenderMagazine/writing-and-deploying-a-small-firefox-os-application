@@ -78,6 +78,7 @@ your server has the [webapp mimetype][12] setup. Mozilla has a great
 [online app validation tool][13] that can help you debug problems in this process.
 
 ![Screenshot][Our application]
+
 And we’re done! (Ctrl+Shift+M to toggle responsive design mode in Firefox)
 
 Visiting the page will offer to install the app for you on a device that
